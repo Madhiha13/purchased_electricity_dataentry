@@ -1,0 +1,22 @@
+[
+  {
+    "year": "2021-2022",
+    "month": "july",
+    "facilityCode": "001",
+    "facilityName": "Mobile Combustion",
+    "ElectricityType": "purchasedElectricity",
+    "Consumption": "20000",
+    "siUnits": "kw",
+    "fileUrl": ""
+  },
+  {
+    "year": "2021-2022",
+    "month": "july",
+    "facilityCode": "001",
+    "facilityName": "Mobile Combustion",
+    "ElectricityType": "purchasedElectricity",
+    "Consumption": "20000",
+    "siUnits": "kw",
+    "fileUrl": "http://localhost:5000/uploads/Statement Of Work Template word.docx"
+  }
+]
